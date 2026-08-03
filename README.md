@@ -41,9 +41,7 @@ This project demonstrates how Microsoft Excel can be used to build an interactiv
 * Business Intelligence
 * Reporting
 
-## Project Screenshot
 
-(Add dashboard screenshot here)
 
 ## Author
 
